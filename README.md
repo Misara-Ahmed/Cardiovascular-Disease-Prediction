@@ -12,6 +12,7 @@
 ## Information
 - This project is to predict if the patient has survive from heart failure or not.
 - The ML model has an accuracy :
+- 
 |Catagory|Logistic regression| Decision tree |Random Forest |
 |All Features|     80.97%   |   84%  |        88% |
 | Three Features   |83%     |   :---:  |  ---: |
