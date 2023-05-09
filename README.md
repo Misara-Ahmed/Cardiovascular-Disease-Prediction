@@ -12,11 +12,17 @@
 ## Information
 - This project is to predict if the patient has survive from heart failure or not.
 - The ML model has an accuracy :
-- 
-|   Catagory     | Logistic regression | Decision tree | Random Forest |
+
+|  Model    | Logistic regression | Decision tree | Random Forest |
 | :-----:        |        :---:        |      :---:    |      :---:    |
 |  All Features  |        80.97%       |   84%         |      88%      |
 | Three Features |        83%          |   :---:       |      ---:     |
+
+
+|  Model         | SVM linear Kernel   | SVM Polynomial Kernel |SVM RBF Kernel |SVM Sigmoid Kernel|
+| :-----:        |        :---:        |      :---:            |      :---:    |        :---:     |
+|  All Features  |      86.667 %       |  78.667%              |      88%      | 82.67%           |
+| Three Features |        85.3%        |   76%                 |     76%       |    76%           |
 
 - 
 
